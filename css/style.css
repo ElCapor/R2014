@@ -1,0 +1,235 @@
+* {
+    margin: 0px auto;
+    padding: 0;
+    width: auto;
+    user-zoom: 25%;
+
+
+}
+
+body {
+
+    overflow-x: hidden;
+    
+}
+
+.preheader {
+    background-color: #343434;
+    width: auto;
+    height: 50px;
+    color: #fff;
+    padding: 10px;
+    margin: 0px auto
+    
+}
+
+li   {
+
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 15px;
+
+}
+.boja {
+
+    color: white;
+    text-decoration: none;
+ 
+}
+
+.logo {
+
+    margin-left: 25px;
+}
+
+.pluton {
+
+    margin-bottom: 100px;
+
+}
+
+.drugiheder {
+    background-color: rgb(209, 41, 41);
+    height: 40px;
+    width: auto;
+    color: #fff;
+
+}
+
+.tekstic {
+
+    text-align: center;
+    padding: 5px;
+}
+.tekstic_dva {
+    padding-top: 5px;
+    font-family: Helvetica;
+}
+.mainmenu  {
+    display: flex;
+
+}
+
+ .mainmenu li a {
+    flex-grow: 1;
+    text-align: center;
+    display: block;
+    padding-right: 100px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-right: 100px;
+    text-decoration: none;
+    color: rgb(166,166,166);
+}
+
+
+
+
+.mainmenu a:hover {
+    color: #fff;
+    transition: 0.5s;
+
+}
+
+.meni11 {
+    padding-bottom: 4px;
+
+}
+.mainscene {
+
+    background-image: url(../img/i_ja_kazem.jpg);
+    width: 3000px;
+    height: 50px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: #fff;
+    font-family: helvetica;
+    padding-bottom: 302px;
+    padding-top: 151px;
+    padding-left: 750px;
+}
+
+.footer {
+
+    margin-top: 80px;
+    width: 1183px;
+    background-color: #fff;
+    height: 80px;
+    background-color: rgb();
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 1px solid rgb(223, 223 , 223);
+
+    
+
+
+}
+
+.background {
+
+    background-color: rgb(236, 238, 242);
+    width: 1200px;
+    height: 1000px;
+}
+
+#house {
+
+    padding-bottom: 2.5px;
+}
+
+#game {
+
+    padding-bottom: 2.5px;   
+    padding-right: 1px;
+}
+
+#catalog {
+
+    padding-bottom: 2.5px;   
+    padding-right: 1px;
+}
+
+#avatar {
+
+    padding-bottom: 2.5px;   
+    padding-right: 1px;
+}
+
+#tekstic2 {
+
+     margin-right: 20px;
+}
+
+.discord {
+
+    margin-top: 50px;
+}
+
+.discord #discord {
+
+    
+    text-decoration: none;
+    color: #343434;
+    border: 1px solid black;
+    padding-bottom: 100px;
+
+}
+.discord {
+
+    
+    text-decoration: none;
+    color: #343434;
+    padding-right: 200px;
+    padding-bottom : 150px;
+    border: 1px solid rgb(223, 223 , 223);
+    padding-left: 150px;
+    padding-top: 80px;
+    background-color: #fff;
+    padding-left: 20px;
+    height: 25px;
+    padding-top: 25px;
+
+
+}
+
+#precica {
+
+
+    text-decoration: underline;
+    color:blue;
+}
+
+
+.the-normal-elevator {
+
+
+    height: 320px;
+    width: 320px;
+    background-color: #fff;
+    margin-top: 60px;
+    border: 1px solid rgb(223, 223 , 223);
+
+
+}
+
+.the-normal-elevator .img {
+
+
+    height: 175px;
+    width: 305px;
+    margin: 6px;
+
+    
+
+}
+
+.igraj-se {
+
+    background-color: greenyellow;
+    margin-left: 90px;
+    margin-top: 60px;
+    height: 50px;
+    width: 130px;
+    color: white;
+}
